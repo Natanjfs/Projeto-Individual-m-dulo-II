@@ -1,0 +1,200 @@
+.pai{
+
+    display: flex;
+    background-color: rgb(0, 0, 0);
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
+
+
+.nome{
+    font-family: Inlanders;
+    font-size: 150px;
+    color:aliceblue;
+    padding-left: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+
+}
+
+.logo{
+    width: 230px;
+    height: 230px;
+    padding-right: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+
+.pai1{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    
+
+}
+
+.inpttexto{
+
+    width: 500px;
+    height: 500px;
+    border-radius: 10px;
+    padding-left: 15px;
+    padding-top: 15px;
+    border: 5px solid black;
+    font-size: 25px;
+
+
+}
+
+.box1{
+
+    width: 500px;
+    height: 500px;
+    border-radius: 10px;
+    padding-left: 2px;
+    border: 5px solid black;
+}
+
+.f1{
+
+    width: 450px;
+    height: 450px;
+    padding-left: 30px;
+
+}
+
+button{
+
+    font-size: 25px;
+    color: azure;
+    background-color: black;
+    width: 300px;
+    height: 80px;
+
+    
+    
+    
+}
+
+.buttons{
+    
+    display: flex;
+    justify-content: space-around;
+
+}
+
+button:hover{
+
+    background: rgb(255, 255, 255);
+    box-shadow: 0 0 10px;
+    color:rgb(0, 0, 0);
+    
+}
+.rp{
+
+    display: flex;
+    background-color: rgb(0, 0, 0);
+    flex-direction: column;
+    justify-content: space-between; 
+    
+    
+}
+
+.img1{
+
+    width: 150px;
+    height: 150px;
+    padding-left: 900px;
+    padding-top: 20px;
+
+}
+
+.rp1{
+
+    font-size: 40px;
+    font-family: Magical Holiday;
+    color: aliceblue;
+    padding-top: 20px;
+    padding-left: 750px;
+}
+
+.titulo{
+    padding-left: 600px;
+    font-size: 80px;
+    font-family: Magical Holiday;
+
+
+
+}
+
+
+.rp3{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: black;
+    padding-top: 100px;
+    height: 60px;
+    align-items: center;
+    
+}
+
+.f7{
+
+    width: 70px;
+    height: 70px;
+    padding-left: 100px;
+    padding-bottom: 40px;
+}
+
+.bot1{
+
+    display: flex;
+    flex-direction: column;
+    font-size: 25px;
+    justify-content: center;
+}
+
+.bot2{
+
+    font-size: 35px;
+    font-family: Magical Holiday;
+}
+
+select{
+
+    width: 300px;
+    height: 50px;
+    font-size: 30px;
+    margin-bottom: 100px;
+    font-family: Magical Holiday;
+}
+
+input{
+
+    width: 25px;
+    height: 25px;
+     
+    
+}
+
+h3{
+    font-family: Magical Holiday;
+    font-size: 35px;
+}
+
+#keybox{
+
+    width: 250px;
+    height: 30px;
+    margin-bottom: 50px;
+    border: 2px solid black;
+    padding-left: 20px;
+    font-size: 20px;
+    font-family: Magical Holiday
+}
